@@ -7,17 +7,23 @@
   <br/>
 </div>
 
+<br/>
 
 
 # 🍓 Berries Pay
-
 > From Cannes to the world, we're making crypto as simple as sharing fruits with friends ☀️
+
+<br/>
 
 Berries Pay is the easiest way to send and receive money: instantly, globally, and powered by Web3. 
 
 [berries-pay.xyz](https://berries-pay.xyz/)
 
+<br/>
+
 ***
+
+<br/>
 
 ## Our Philosophy
 
@@ -26,7 +32,11 @@ Berries Pay is the easiest way to send and receive money: instantly, globally, a
 *   **🔒 Secure**: All the power and security of Web3, without the complexity.
 
 
+<br/>
+
 ***
+
+<br/>
 
 ## Connect With Us
 
