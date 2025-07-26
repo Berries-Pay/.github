@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://berries-pay.xyz/" target="_blank">
-    <img src="https://github.com/KoVault-App/.github/blob/main/profile/banner.png" alt="Berries Pay Banner" width="100%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
+    <img src="/banner.png" alt="Berries Pay Banner" width="100%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
   </a>
 
   <br/>
